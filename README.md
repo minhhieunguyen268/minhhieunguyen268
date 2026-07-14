@@ -1,10 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/typescript.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/dotnet.svg" alt=".NET" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,js,ts,react,nodejs,dotnet" />
+  </a>
 </div>
 
 <h1 align="center">Hi 👋, I'm Nguyen Minh Hieu</h1>

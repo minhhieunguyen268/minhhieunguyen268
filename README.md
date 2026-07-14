@@ -7,6 +7,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Minh Hieu</h1>
 
 <h3 align="center">
+<img src="./assets/mario.gif" width="100%">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&center=true&vCenter=true&width=500&height=50&lines=Fullstack+Developer;Web+Development+Enthusiast;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
   </a>

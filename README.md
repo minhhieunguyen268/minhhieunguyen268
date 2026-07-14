@@ -1,13 +1,19 @@
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,js,ts,react,nodejs,dotnet" />
-  </a>
+  <img src="./assets/working.gif" width="100%" alt="Working Animation" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/typescript.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/dotnet.svg" alt=".NET" width="40" height="40"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Nguyen Minh Hieu</h1>
 
 <h3 align="center">
-<img src="./assets/mario.gif" width="100%">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&center=true&vCenter=true&width=500&height=50&lines=Fullstack+Developer;Web+Development+Enthusiast;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
   </a>
